@@ -3,7 +3,7 @@ DIP Course Project - On Deep KSVD Paper
 
 # Deep K-SVD Denoising
 Created for DIP Course, small improvement and changes for the original code (link below), a review and explanations are attached in the PDF file.<br /> 
-Original code and credit - Code of the paper by Meyer Scetbon, Michael Elad and Peyman Milanfar
+Original code and credit - Code of the paper by Meyer Scetbon, Michael Elad and Peyman Milanfar <br /> 
 on https://github.com/meyerscetbon/Deep-K-SVD
 
 ## Intro: A Differentiable version of the K-SVD Denoising algorithm
