@@ -13,5 +13,5 @@ Citation from the original : Adopting a broader context, this work touches on th
 
 ## Repository Running Instructions-
 1. Clone the repository and open DIP_DeepKSVD.ipynb with google colab notebook (or a local one).<br />
-2. Upload all the other files to the same folder (use a zip file to load gray folder) and run DIP_DeepKSVD.ipynb (First training section, then loading and testing).
+2. Upload all the other files to the same folder (use a zip file to load gray folder) and run DeepKSVD.ipynb (First training section, then loading and testing).
 
