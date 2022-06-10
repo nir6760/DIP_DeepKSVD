@@ -11,11 +11,11 @@ This work considers noise removal from images, focusing on the well known K-SVD 
 Citation from the original : Adopting a broader context, this work touches on themes around the design of deep-learning solutions for image processing tasks, while paving a bridge between classic methods and novel deep-learning-based ones. 
 
 ## Structure of the Code
-src/DeepKSVD.ipynb - main training and testing notebook.<br />
-src/Deep_KSVD_NirOren.py - implementation of the algorithm and our changes.<br />
-src/gray - folder of the images (train and test).<br />
-src/train_gray.txt - list of the train images.<br />
-src/test_gray.txt - list of the test images.
+src/DeepKSVD.ipynb - Main training and testing notebook.<br />
+src/Deep_KSVD_NirOren.py - Implementation of the algorithm and our changes.<br />
+src/gray - The photos folder (train and test).<br />
+src/train_gray.txt - List of the train images.<br />
+src/test_gray.txt - List of the test images.
 
 ## Repository Running Instructions-
 1. Clone the repository and open DIP_DeepKSVD.ipynb with google colab notebook (or a local one).<br />
